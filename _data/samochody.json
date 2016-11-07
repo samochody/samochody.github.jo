@@ -1,0 +1,43 @@
+[
+{
+ "name": "Warszawa 210",
+ "samochod": true
+},
+{
+  "name": "SFW-1 Sanok",
+  "samochod": true
+},
+{
+"name": "Lux-Sport",
+"samochod":true
+},
+{
+  "name": "FSM Beskid",
+  "samochod": true
+},
+{
+  "name":"Syrena 110",
+  "samochod":true
+},
+{
+  "name":"syrena sport",
+  "samochod":true
+},
+{
+  "name": "Polski Fiat Coupe",
+  "samochod": true
+},
+{
+  "name":"FSO Wars",
+  "samochod": true
+},
+{
+  "name":"FSO Ogar",
+  "samochod": true
+},
+{
+  "name": "FSO Polonez",
+  "samochod":true
+},
+
+]
